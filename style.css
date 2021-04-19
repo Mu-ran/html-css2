@@ -21,7 +21,7 @@ p {
 }
 
 .header-top {
-  background-image: url(img/bg-main_visual@2x.jpg);
+  background-image: url(https://mu-ran.github.io/html-css2/bg-main_visual@2x.jpg);
   background-size: cover;
   padding-top: 40%;
   position: relative;
@@ -52,7 +52,7 @@ p {
 }
 
 .section2 {
-  background: url(img/bg-content.jpg);
+  background: url(https://mu-ran.github.io/html-css2/bg-content.jpg);
   background-size: cover;
   background-attachment: fixed;
   padding: 100px;
